@@ -22,19 +22,22 @@ The project demonstrates core concepts of:
 
 ## 🏠 Interpreter Console
 
-
+<p align="center">
+  <img src="assets/Home.png" alt="Homepage" width="600"/>
+</p>
 
 ## ➕ Expression Evaluation
 
-Expression_Result
+<p align="center">
+  <img src="assets/Input_1.png" alt="Homepage" width="600"/>
+</p>
 
-## 🔁 While Loop Execution
+## 🔁 Loop Execution
 
-While_Loop_Result
+<p align="center">
+  <img src="assets/Input_1.png" alt="Homepage" width="600"/>
+</p>
 
-## 🔄 For Loop Execution
-
-For_Loop_Result
 
 ---
 
