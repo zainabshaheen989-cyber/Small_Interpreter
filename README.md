@@ -44,19 +44,34 @@ The project demonstrates core concepts of:
 # ✨ Features
 
 ✅ Variable Handling using `map`
+
 ✅ Arithmetic Expressions (+, -, *, /)
+
 ✅ Operator Precedence (BODMAS)
+
 ✅ Expression Evaluation using Stacks
+
 ✅ While Loop Support
+
 ✅ For Loop Support
+
 ✅ Increment / Decrement Operations
+
 ✅ Logical Operators (&&, ||, !)
+
 ✅ Conditional Evaluation
+
 ✅ Print Command
+
 ✅ Show Variables Command
+
 ✅ Division by Zero Error Handling
+
 ✅ Undefined Variable Detection
+
 ✅ Custom Mini Language Execution
+
+
 
 ---
 
